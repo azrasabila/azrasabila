@@ -9,6 +9,7 @@
 ### 🖧 Back End
 [![.NET]](https://dotnet.microsoft.com ".NET")
 [![Express.js]](https://expressjs.com/ "Express.js")  
+[![Gin]](https://gin-gonic.com/ "Gin")  
 [![Django]](https://www.djangoproject.com "Django") 
 [![CodeIgniter]](https://codeigniter.com "CodeIgniter")  
 
@@ -53,6 +54,7 @@
 	<a href="https://linkedin.com/azra-sabila"><img width="48" src="https://media0.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" alt="LinkedIn"/></a>
 </p>
 
+[Gin]: https://img.shields.io/badge/Gin-3176d9?style=for-the-badge&logo=gin-gonic&logoColor=white
 [Supabase]: https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white
 [Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white
 [RabbitMQ]: https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white
