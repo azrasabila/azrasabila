@@ -2,14 +2,15 @@
 <h4>I'm a software engineer based in Bandung Indonesia with 2+ years of working experience in Web Development, has BASc degree from 
 <a href="https://www.polban.ac.id/">Politeknik Negeri Bandung</a>.</h4>
 
-<h4>👨‍💻 Currently working as Fullstack Programmer at <a href="https://www.agate.id/">Agate</a>.</h4>
+<h4>👨‍💻 Formerly working as Fullstack Programmer at <a href="https://www.agate.id/">Agate</a>.</h4>
+<h4>👨‍💻 Currently working as Fullstack Engineer at <a href="https://bri.co.id/">Bank Rakyat Indonesia</a>.</h4>
 
 ## 🛠️ Tech Stack
 
 ### 🖧 Back End
 [![.NET]](https://dotnet.microsoft.com ".NET")
-[![Express.js]](https://expressjs.com/ "Express.js")  
 [![Gin]](https://gin-gonic.com/ "Gin")  
+[![Express.js]](https://expressjs.com/ "Express.js")  
 [![Django]](https://www.djangoproject.com "Django") 
 [![CodeIgniter]](https://codeigniter.com "CodeIgniter")  
 
@@ -25,9 +26,9 @@
 
 ### 🌐 Programming Language
 [![C#]](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "C#") 
+[![Go]](https://golang.org "Go") 
 [![TypeScript]](https://www.typescriptlang.org "TypeScript")  
 [![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")  
-[![Go]](https://golang.org "Go") 
 [![Python]](https://www.python.org "Python")  
 [![PHP]](https://www.php.net "PHP") 
 
